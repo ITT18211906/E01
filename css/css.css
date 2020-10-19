@@ -1,0 +1,49 @@
+html
+{
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    text-decoration: none;
+    color: black;
+}
+
+.navbar
+{
+    color: black;
+    padding-bottom: 0px;
+    border-width: 0px 0px 1px 0px;
+    border-style:solid;
+    border-color:lightgray;
+    max-width:95vw;
+}
+
+.navbar-brand
+{
+    font-size: 36px;
+}
+
+.nav-item
+{
+    font-size: 24px;
+}
+
+i
+{
+    font-size: 36px;
+    color: rgb(74,28,0);
+}
+
+.item-bkg
+{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover
+}

@@ -1,0 +1,35 @@
+.item-1
+{
+    background-image:url(../img/camera-1149041.jpg); 
+}
+
+.item-2
+{
+    background-image:url(../img/assets.newatlas.com.jpg); 
+}
+
+.item-3
+{
+    background-image:url(../img/photo-256888.jpg);
+}
+
+.item-head
+{
+    font-size: 48px;
+    font-weight: bolder;
+    color: white;
+
+}
+
+.item-text
+{
+    font-size: 24px;
+    color: white;
+}
+
+.item-3-text
+{
+    font-size: 32px;
+    margin-bottom: 2px;
+    background-color: red;
+}
